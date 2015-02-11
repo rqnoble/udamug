@@ -1,0 +1,42 @@
+.container{
+	font-family: Verdana, sans-serif;
+    margin-top: 28px;
+}
+
+h1{
+	color: #666;
+	font-size: 3.4em;
+}
+
+h2{
+	color: #f07c17;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 28px;
+	font-size: 1.7em;
+}
+
+.row{
+	margin-bottom: 18px;
+}
+
+p{
+	line-height: 200%;
+	font-size: 1.145em;
+}
+
+.features{
+	border: solid 1px #ccc;
+	margin-top: 27px;
+	padding-left: 30px;
+	padding-top: 30px;
+    padding-bottom: 9px
+}
+
+ul{
+	padding-right: 20px;
+	padding-bottom: 25px;
+	line-height: 200%;
+	font-size: 1.15em;
+}
+
